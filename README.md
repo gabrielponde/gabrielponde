@@ -1,24 +1,55 @@
-### Olá! Eu sou o Gabriel Pondé ✋
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-Desde cedo, apaixonado por tecnologia e por mudar a vida das pessoas através da programação. Fascinado pela maneira como a inovação tecnológica pode transformar o mundo, escolhi trilhar uma carreira na área da tecnologia para contribuir com soluções inovadoras e impactantes. 
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Gabriel! A passionate Software Developer student from Brazil.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pond%C3%A9-023049236/)
+  - 🌱 I'm currently studying Software Developer at Cubos Academy. 
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielponde&show_icons=true&theme=dark)
+  - 🔭 I'm looking for my first job opportunity. My dream is to one day work with AI and transform people's lives through programming.
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielponde&layout=compact)
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
 
-### Tecnologias que eu uso no meu dia
+  - 💬 I am 22 years old and currently live in Brazil. I like reading, whether it's a good book, adventure, or investigation, as well as watching movies and playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \o/
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="sql" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<div/><br/>  
+</details>
 
-### Principais Repositórios
+<!-- Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pondé)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielponde&repo=BankAPI)](https://github.com/gabrielponde/BankAPI)
+<!-- GithubStats -->
+![gabrielponde GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielponde&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielponde&show_icons=true&theme=gotham&layout=compact)
+
+<!-- Portfolio -->
+## Portfolio:
+- [JavaScript - API Rest Banking](https://github.com/gabrielponde/BankAPI)
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/Variablebee/Variablebee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,postgresql,react,html,css,typescript"/>
+      </a>
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+      <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,vscode,github,git"/>
+      </a>
+  </div>
