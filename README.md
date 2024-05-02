@@ -6,7 +6,7 @@ Desde cedo, apaixonado por tecnologia e por mudar a vida das pessoas através da
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielponde&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielponde)](https://github.com/gabrielponde/github-readme-stats)
+(![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielponde&layout=compact))
 
 ### Tecnologias que eu uso no meu dia
 
