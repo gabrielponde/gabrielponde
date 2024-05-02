@@ -4,7 +4,7 @@ Desde cedo, apaixonado por tecnologia e por mudar a vida das pessoas através da
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pond%C3%A9-023049236/)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielponde&show_icons=true&theme=onedark)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielponde&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielponde)](https://github.com/gabrielponde/github-readme-stats)
 
