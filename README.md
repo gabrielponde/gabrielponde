@@ -21,4 +21,4 @@ Desde cedo, apaixonado por tecnologia e por mudar a vida das pessoas através da
 
 ### Principais Repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielponde&repo=github-readme-stats)](https://github.com/gabrielponde/BankAPI))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielponde&repo=BankAPI)](https://github.com/gabrielponde/BankAPI)
