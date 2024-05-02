@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Pondé ✋
 
-Desde cedo, apaixonado por tecnologia e por mudar a vida das pessoas através da programação. Fascinado pela maneira como a inovação tecnológica pode transformar o mundo, escolhi trilhar uma carreira na área da tecnologia para contribuir com soluções inovadoras e impactantes. Além disso, estou constantemente aprimorando minhas habilidades por meio de estudos autônomos e participação em cursos especializados. Meu objetivo profissional no momento é continuar crescendo e evoluindo na área de tecnologia, contribuindo para projetos inovadores e desafiadores. Busco oportunidades que me permitam expandir meu conhecimento, trabalhar em equipe e impactar positivamente a vida das pessoas por meio da tecnologia. Estou aberto a novos desafios e colaborações que me permitam crescer como profissional e fazer a diferença no mundo da tecnologia.
+Desde cedo, apaixonado por tecnologia e por mudar a vida das pessoas através da programação. Fascinado pela maneira como a inovação tecnológica pode transformar o mundo, escolhi trilhar uma carreira na área da tecnologia para contribuir com soluções inovadoras e impactantes. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pond%C3%A9-023049236/)
 
