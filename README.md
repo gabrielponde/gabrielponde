@@ -30,7 +30,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [JavaScript - API Rest Banking](https://github.com/gabrielponde/BankAPI)
+- [JavaScript - API Restful Banking](https://github.com/gabrielponde/BankAPI)
 
 <!-- GIF -->
 <p align="left">
