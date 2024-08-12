@@ -50,6 +50,6 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,vscode,github,git"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,vscode,docker,github,git"/>
       </a>
   </div>
