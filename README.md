@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 23 years old and currently live in Brazil. I like reading, whether it's a good book, adventure, or investigation, as well as watching movies and playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
+  - 💬 I am 23 years old and currently live in Brazil. I like reading, whether it's a good book, adventure, or investigation, as well as watching movies and playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. I´m constantly learning and improving my skills. 
 
 </details>
 
