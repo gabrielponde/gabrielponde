@@ -42,7 +42,7 @@
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,postgresql,react,html,css,typescript"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,postgresql,react,html,css"/>
       </a>
   </div>
   
