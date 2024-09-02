@@ -30,6 +30,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [JavaScript - API Restful PDV](https://github.com/gabrielponde/Ponto-de-Venda)
 - [JavaScript - API Restful Banking](https://github.com/gabrielponde/BankAPI)
 
 <!-- GIF -->
