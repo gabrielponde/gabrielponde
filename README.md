@@ -22,7 +22,7 @@
 </details>
 
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pondé)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-avena)
 
 <!-- GithubStats -->
 ![gabrielponde GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielponde&show_icons=true&theme=gotham)
