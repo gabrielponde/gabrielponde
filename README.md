@@ -26,6 +26,7 @@
 
 <!-- GithubStats -->
 ![gabrielponde GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielponde&show_icons=true&theme=gotham)
+![gabrielponde GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielponde&layout=compact&langs_count=7&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
