@@ -32,7 +32,7 @@
 ## Portfolio:
 - [JavaScript - API Restful PDV](https://github.com/gabrielponde/Ponto-de-Venda)
 - [JavaScript - API Restful Banking](https://github.com/gabrielponde/BankAPI)
-- [HTML E CSS](https://github.com/gabrielponde/F1-Legends)
+- [HTML E CSS - F1 Greatest Drivers](https://github.com/gabrielponde/F1-Legends)
 
 <!-- GIF -->
 <p align="left">
