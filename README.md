@@ -45,7 +45,7 @@
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,postgresql,react,html,css"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,postgresql,react,html,css,sass"/>
       </a>
   </div>
   
@@ -53,6 +53,6 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,vscode,docker,github,git"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,vscode,docker,github,git,npm"/>
       </a>
   </div>
