@@ -40,7 +40,7 @@
   <img align="center" src="https://github.com/Variablebee/Variablebee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-🔥 Skills with Icons
+## 🔥 Skills
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
   <!-- Languages --> <div> <h3>Languages</h3> <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,sass,postgresql" alt="Languages" /> </div> 
   <!-- Frameworks --> <div> <h3>Frameworks & Libraries</h3> <img src="https://skillicons.dev/icons?i=nodejs,react,next,vite" alt="Frameworks & Libraries" /> </div> 
