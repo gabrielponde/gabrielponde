@@ -40,19 +40,9 @@
   <img align="center" src="https://github.com/Variablebee/Variablebee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,postgresql,react,html,css,sass"/>
-      </a>
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,vscode,vite,next,docker,github,git,npm"/>
-      </a>
-  </div>
+🔥 Skills with Icons
+<div style="display: flex; flex-wrap: wrap; gap: 16px;">
+  <!-- Languages --> <div> <h3>Languages</h3> <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,sass,postgresql" alt="Languages" /> </div> 
+  <!-- Frameworks --> <div> <h3>Frameworks & Libraries</h3> <img src="https://skillicons.dev/icons?i=nodejs,react,next,vite" alt="Frameworks & Libraries" /> </div> 
+  <!-- Tools --> <div> <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=docker,vscode,git,github,npm" alt="Tools" /> </div> 
+</div>
