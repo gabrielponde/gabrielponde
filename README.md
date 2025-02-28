@@ -42,7 +42,7 @@
 
 ## 🔥 Skills
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
-  <!-- Languages --> <div> <h3>Languages</h3> <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,sass,postgresql" alt="Languages" /> </div> 
+  <!-- Languages --> <div> <h3>Languages</h3> <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,sass,tailwind,styledcomponents,postgresql" alt="Languages" /> </div> 
   <!-- Frameworks --> <div> <h3>Frameworks & Libraries</h3> <img src="https://skillicons.dev/icons?i=nodejs,react,next,vite,cypress,jest" alt="Frameworks & Libraries" /> </div> 
   <!-- Tools --> <div> <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=docker,vscode,git,github,npm" alt="Tools" /> </div> 
 </div>
