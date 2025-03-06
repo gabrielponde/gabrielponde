@@ -30,7 +30,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-[Portifólio](https://portfolio-gabriel-avena.vercel.app)
+[Gabriel Avena](https://portfolio-gabriel-avena.vercel.app)
 
 <!-- GIF -->
 <p align="left">
