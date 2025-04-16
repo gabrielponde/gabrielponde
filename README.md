@@ -25,8 +25,24 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-avena)
 
 <!-- GithubStats -->
-![gabrielponde GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielponde&show_icons=true&theme=gotham)
-![gabrielponde GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielponde&layout=compact&langs_count=7&theme=gotham)
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=gabrielponde&theme=dark&hide_border=true&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielponde&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 <!-- Portfolio -->
 ## Portfolio:
