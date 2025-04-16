@@ -6,11 +6,11 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Gabriel! A passionate Software Developer student from Brazil.
+  Hi 👋, I'm Gabriel! A passionate Software Developer from Brazil.
 
-  - 🌱 I'm currently studying Software Developer at Cubos Academy. 
+  - 🎓 Graduated in Software Development from Cubos Academy
 
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work with AI and transform people's lives through programming.
+  - 🔍 I'm looking for my first job opportunity. My dream is to one day work with AI and transform people's lives through programming.
 </p>
 
 <!-- Dropdown -->
